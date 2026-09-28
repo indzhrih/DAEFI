@@ -1,0 +1,1 @@
+# Laboratory work on the course *"Data analysis in economics, finance and insurance"*
